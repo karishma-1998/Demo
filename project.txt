@@ -1,0 +1,14 @@
+
+Development of software for image enhancement in the browser
+-------------------------------------------------------------
+
+Image Enhancement has significance in image processing.This technique is used as a preprocessing step in speech recognition,texture synthesis,Computer graphics,intelligent transportation system etc.
+ 
+
+The main objective behind the topic is use to sharpen,enhance the quality of photograph and develop a software package basic image processing in browser.The development of image processing software will help editing process to be done effectively.
+
+====================================================================
+              Online home services
+
+
+
